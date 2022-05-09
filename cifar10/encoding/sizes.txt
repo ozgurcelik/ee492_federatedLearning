@@ -1,0 +1,3 @@
+hepsi 5c için:
+normal : 329.05 Mb
+8bit   : 94.90 Mb

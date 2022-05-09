@@ -1,0 +1,26 @@
+Initial validation accuracy: 22.81  accuracy 2: 5.37%
+        Round 20 validation accuracy: 27.71  accuracy 2: 11.53%
+        Round 40 validation accuracy: 32.42  accuracy 2: 17.86%
+        Round 60 validation accuracy: 35.60  accuracy 2: 24.87%
+        Round 80 validation accuracy: 37.44  accuracy 2: 29.71%
+        Round 100 validation accuracy: 38.68  accuracy 2: 33.90%
+        Round 120 validation accuracy: 39.96  accuracy 2: 37.85%
+        Round 140 validation accuracy: 40.25  accuracy 2: 39.73%
+        Round 160 validation accuracy: 40.22  accuracy 2: 40.15%
+        Round 180 validation accuracy: 40.20  accuracy 2: 40.19%
+        Round 200 validation accuracy: 40.19  accuracy 2: 40.20%
+        Round 220 validation accuracy: 40.19  accuracy 2: 40.20%
+        Round 240 validation accuracy: 40.18  accuracy 2: 40.20%
+        Round 260 validation accuracy: 40.19  accuracy 2: 40.20%
+        Round 280 validation accuracy: 40.18  accuracy 2: 40.20%
+        Round 300 validation accuracy: 40.19  accuracy 2: 40.20%
+        Round 320 validation accuracy: 40.21  accuracy 2: 40.20%
+        Round 340 validation accuracy: 40.26  accuracy 2: 40.20%
+        Round 360 validation accuracy: 40.36  accuracy 2: 40.20%
+        Round 380 validation accuracy: 40.44  accuracy 2: 40.20%
+        Round 400 validation accuracy: 40.51  accuracy 2: 40.20%
+        Round 420 validation accuracy: 40.67  accuracy 2: 40.20%
+        Round 440 validation accuracy: 41.00  accuracy 2: 40.20%
+        Round 460 validation accuracy: 40.96  accuracy 2: 40.20%
+        Round 480 validation accuracy: 40.98  accuracy 2: 40.20%
+        Round 500 validation accuracy: 41.00  accuracy 2: 40.20%

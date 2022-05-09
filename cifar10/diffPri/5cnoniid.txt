@@ -1,0 +1,43 @@
+noise_multiplier = 0.001
+
+	Initial validation accuracy: 10.16%
+	Round 2 validation accuracy: 13.03%
+	Round 4 validation accuracy: 11.11%
+	Round 6 validation accuracy: 10.04%
+	Round 8 validation accuracy: 15.64%
+	Round 10 validation accuracy: 17.75%
+	Round 12 validation accuracy: 20.59%
+	Round 14 validation accuracy: 20.01%
+	Round 16 validation accuracy: 16.68%
+	Round 18 validation accuracy: 18.87%
+	Round 20 validation accuracy: 19.62%
+	Round 22 validation accuracy: 18.21%
+	Round 24 validation accuracy: 20.01%
+	Round 26 validation accuracy: 23.90%
+	Round 28 validation accuracy: 29.60%
+	Round 30 validation accuracy: 31.25%
+	Round 32 validation accuracy: 22.07%
+	Round 34 validation accuracy: 30.59%
+	Round 36 validation accuracy: 31.34%
+	Round 38 validation accuracy: 36.56%
+	Round 40 validation accuracy: 34.06%
+	Round 42 validation accuracy: 37.73%
+	Round 44 validation accuracy: 31.27%
+	Round 46 validation accuracy: 33.27%
+	Round 48 validation accuracy: 40.92%
+	Round 50 validation accuracy: 38.15%
+	Round 52 validation accuracy: 40.82%
+	Round 54 validation accuracy: 44.79%
+	Round 56 validation accuracy: 42.60%
+	Round 58 validation accuracy: 44.17%
+	Round 60 validation accuracy: 42.73%
+	Round 62 validation accuracy: 38.79%
+	Round 64 validation accuracy: 45.96%
+	Round 66 validation accuracy: 41.78%
+	Round 68 validation accuracy: 47.64%
+	Round 70 validation accuracy: 45.74%
+	Round 72 validation accuracy: 47.73%
+	Round 74 validation accuracy: 42.19%
+	Round 76 validation accuracy: 45.48%
+	Round 78 validation accuracy: 38.89%
+	Round 80 validation accuracy: 43.70%

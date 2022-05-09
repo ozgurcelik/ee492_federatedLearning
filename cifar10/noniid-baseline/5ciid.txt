@@ -1,0 +1,46 @@
+
+Initial validation accuracy: 9.62%
+Round 2 validation accuracy: 41.96
+Round 4 validation accuracy: 45.00
+Round 6 validation accuracy: 48.72
+Round 8 validation accuracy: 52.06
+Round 10 validation accuracy: 53.73
+Round 12 validation accuracy: 54.73
+Round 14 validation accuracy: 56.52
+Round 16 validation accuracy: 57.56
+Round 18 validation accuracy: 57.38
+Round 20 validation accuracy: 59.55
+Round 22 validation accuracy: 60.54
+Round 24 validation accuracy: 60.65
+Round 26 validation accuracy: 62.33
+Round 28 validation accuracy: 61.44
+Round 30 validation accuracy: 62.16
+Round 32 validation accuracy: 61.88
+Round 34 validation accuracy: 64.39
+Round 36 validation accuracy: 64.04
+Round 38 validation accuracy: 64.87
+Round 40 validation accuracy: 65.36
+Round 42 validation accuracy: 66.27
+Round 44 validation accuracy: 66.31
+Round 46 validation accuracy: 66.49
+Round 48 validation accuracy: 67.80
+Round 50 validation accuracy: 67.65
+Round 52 validation accuracy: 67.45
+Round 54 validation accuracy: 68.18
+Round 56 validation accuracy: 68.29
+Round 58 validation accuracy: 69.46
+Round 60 validation accuracy: 69.48
+Round 62 validation accuracy: 68.99
+Round 64 validation accuracy: 69.19
+Round 66 validation accuracy: 69.64
+Round 68 validation accuracy: 70.27
+Round 70 validation accuracy: 69.90
+Round 72 validation accuracy: 70.60
+Round 74 validation accuracy: 70.64
+Round 76 validation accuracy: 69.78
+Round 78 validation accuracy: 70.68
+Round 80 validation accuracy: 71.29
+
+Initial validation accuracy: 9.62%
+Round 2 validation accuracy: 39.95
+Round 4 validation accuracy: 46.58
