@@ -1,0 +1,144 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%		ISL Öneri Þablonu
+%		Hazýrlayan: H. Isil Bozma
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%   Proposal    --                                 
+%		Written by: 
+%		Date: 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt]{article} % Specifies the document style.
+
+
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\graphicspath{{figures/}}
+\usepackage{caption}
+\usepackage{diagbox}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage[linesnumbered,ruled,vlined]{algorithm2e}
+\usepackage{booktabs}
+\usepackage{pifont}
+\newcommand{\cmark}{\textcolor[rgb]{0,0.58,0}{\ding{51}}}%
+\newcommand{\xmark}{\textcolor[rgb]{1,0,0}{\ding{55}}}%
+\usepackage{adjustbox}
+\usepackage{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Style %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\topmargin 2cm
+\oddsidemargin 1.5mm
+\evensidemargin 1.5mm
+\setlength{\textwidth}{6.49in}  % Size of the printed part of
+\setlength{\textheight}{8.0in} % page and correct margins.
+\voffset -0.5in                 % sets the appropriate left and top margins.
+\hoffset -0.14in
+\setlength{\topsep}{2.5ex}   % sets separation between text & formulas
+\setlength{\textfloatsep}{0.45in}  % sets separation between fig & text
+\setlength{\intextsep}{0.35in} % sets separation between fig & text     
+\pagestyle{myheadings}     % Produces right side justified page numbers
+\renewcommand{\baselinestretch}{1.0}  % Produces double spacing
+\setcounter{secnumdepth}{4}     % Numbers upto paragraphs
+\setcounter{tocdepth}{4}        % Lists upto paragraph in the contents
+\setlength{\parindent}{0.5in}
+\setlength{\unitlength}{1cm}
+\setlength{\footnotesep}{0.29in}         
+
+\setcounter{page}{0} % Should be set to 0 if TOC is taken out.
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\renewcommand{\thetable}{\Roman{table}}
+
+\begin{document}       
+\bibliographystyle{unsrt}  
+\pagestyle{empty}
+
+
+\centerline{\large \textsl{ EE492 Senior Project} }
+\vskip 5mm
+
+\vspace*{3cm}
+\centerline{\Large \bf  Project Title }
+\vskip 2cm
+
+\centerline{\large\bf  Name Lastname} 
+%\vspace*{2mm}   
+%\centerline{\large\bf  Project-PartnerName} 
+
+\vspace*{2cm}
+\begin{center}
+{\large\rm  Department of Electrical and Electronic Engineering}
+\end{center}
+
+\vskip 2cm
+\begin{center}
+{\large\rm  Project Advisor:  H.~I\d{s}{\i}l~Bozma}
+\end{center}  
+
+\vspace*{2cm}
+\begin{center}
+\today \\[2cm]
+{Bo\u{g}azi\c{c}i University}\\[5mm]
+{\large\rm      Bebek, Istanbul 34342} \\
+\end{center}
+%\vspace*{20mm}
+
+
+
+
+%\newpage
+%\input{ack}  %% Acknowledgements
+
+\newpage
+\input{abs}
+
+\newpage
+\tableofcontents
+
+\newpage
+\listoffigures
+\listoftables
+
+\newpage
+\pagestyle{plain}
+\setcounter{page}{1}
+
+\input{intro}
+\input{method}
+\input{res}
+\input{geneval}
+
+%\newpage
+
+%\noindent{\Large \bf Appendices}
+
+%% Bibliyografya
+\bibliography{refs} 
+
+%\noindent{\Large \bf Appendices}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Bibliography %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Varsa appendix
+%\appendix
+%% How to function the hardware?
+%% How to install necessary software
+%% How to run the developed software
+%\newpage
+%\appendix
+%\renewcommand\thesection{Appendix \hspace*{2cm}\Alph{section}}
+%\input{append}
+
+
+\end{document}    
+
+% End of document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+								      
+
+
